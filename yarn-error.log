@@ -1,0 +1,48 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js
+
+PATH: 
+  /data/data/com.termux/files/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  android arm64
+
+Trace: 
+  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/ATAK-BASE/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+
+npm manifest: 
+  {
+    "name": "ATAKBASE",
+    "version": "2.0.0",
+    "description": "Base Md By Ridho",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "author": "Atak Bot",
+    "license": "ISC",
+    "dependencies": {
+      "@adiwajshing/baileys": "^4.4.0",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "colors": "^1.4.0",
+      "chalk": "^4.1.2",
+      "fluent-ffmpeg": "^2.1.2",
+      "node-fetch": "^2.6.1",
+      "path": "^0.12.7",
+      "moment-timezone": "^0.5.34",
+      "qrcode": "^1.5.0",
+      "qrcode-terminal": "^0.12.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

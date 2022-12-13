@@ -1,0 +1,15 @@
+{
+    "wait": "📩 𝑫𝒂𝒕𝒂 𝑰𝒏 𝑷𝒓𝒐𝒄𝒆𝒔𝒔, 𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 𝑨 𝑴𝒊𝒏𝒖𝒕𝒆",
+    "success": " Ｓｕｃｃｅｓ．．", 
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "Fitur ini hanya bisa digunakan di grup",
+    "OnlyPM": "Fitur ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Fitur Khusus Admin Group!",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Fitur Khusus Owner Bot",
+    "OnlyPrem": "Fitur ini khusus member premium\nMinat jadi premium? hubungi owner",
+    "OnlyUser": "Maaf kak, kamu belum terdaftar di database bot kami, ketik #verify\nUntuk meverifikasi."
+}
